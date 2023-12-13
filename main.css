@@ -108,7 +108,7 @@ z-index: -1;
 }
 
 .interact-section {
-    transform: scale(-20px);
+    transform: scale(20px);
     cursor: pointer;
 }
 
